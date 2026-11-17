@@ -57,7 +57,10 @@ HTML + CSS + **JavaScript puro** (sem frameworks, sem dependências externas).
 
 ## Equipe
 
-Erick André Garcia · Geovana Calixto Costa · Gabriel A. São José · Felipe Silva
+- Erick André Garcia — [@erickandregarcia-ai](https://github.com/erickandregarcia-ai)
+- Felipe Silva — [@felipe-silva-dev](https://github.com/felipe-silva-dev)
+- Geovana Calixto Costa
+- Gabriel A. São José
 
 ## Links
 
