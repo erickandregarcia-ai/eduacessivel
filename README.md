@@ -24,21 +24,36 @@ O **camaleão** representa adaptação: é a tecnologia que se adapta ao estudan
 
 ## Status
 
-Fase conceitual. Este repositório inicia com a **página pública de apresentação** (`index.html` + `css/style.css`). O MVP das telas do estudante e do professor será desenvolvido nas próximas iterações.
+**MVP demonstrativo funcional.** A página pública inclui uma demonstração interativa da experiência "Minha aula" e do painel do professor. Respostas e dados são simulados (base local) — nenhuma IA conectada nesta versão; o código está organizado para integrar uma API de IA posteriormente (`js/assistente.js` → função `responder()`).
+
+### O que funciona hoje (real, no navegador)
+
+- Barra de acessibilidade: texto A−/A+, alto contraste, leitura em voz alta (SpeechSynthesis) com interrupção — preferências persistidas
+- Meus Apoios: seleção de preferências (visual, auditivo, motor, comunicação, leitura simplificada, pictogramas) com efeito real na interface
+- Camaleão-assistente: chat com base local de perguntas frequentes, sugestões prontas e respostas rápidas
+- Painel do professor: pedidos de ajuda com ações (detalhes/responder/abordar), apoios da turma, tópicos com mais dúvidas — **dados fictícios identificados**
+- Conquistas: XP e selos por exploração, sem ranking
 
 ## Estrutura
 
 ```
-├── index.html      → página de capa (publicada via GitHub Pages)
-├── css/style.css   → identidade visual (creme, verde-sálvia, turquesa, lavanda)
-├── assets/         → mascote, ilustrações e ícones
-├── src/            → (futuro) aplicação MVP
-└── docs/           → (futuro) briefing, pesquisas e roteiro de pitch
+├── index.html          → capa + seções do MVP (publicada via GitHub Pages)
+├── css/style.css       → identidade visual + estilos do MVP
+├── js/
+│   ├── dados.js        → base local simulada (contrato p/ futura API)
+│   ├── acessibilidade.js → fonte, contraste, SpeechSynthesis
+│   ├── apoios.js       → preferências do estudante
+│   ├── assistente.js   → chat do camaleão (ponto de integração com IA)
+│   ├── professor.js    → painel do professor (dados simulados)
+│   ├── conquistas.js   → gamificação sem ranking
+│   └── app.js          → navegação, menu mobile, inicialização
+├── assets/             → mascote, ilustrações e ícones
+└── docs/               → (futuro) briefing, pesquisas e roteiro de pitch
 ```
 
 ## Stack
 
-HTML + CSS estáticos (capa). Escolhas de implementação do MVP em definição pela equipe.
+HTML + CSS + **JavaScript puro** (sem frameworks, sem dependências externas).
 
 ## Equipe
 
