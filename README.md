@@ -2,7 +2,7 @@
 
 > **Apoio, autonomia e participação para cada forma de aprender.**
 
-Projeto desenvolvido para o **Hack Brasil 2026** — Trilha **Acesso à Educação**.
+Projeto desenvolvido para o **Hack Brasil 2026** | Trilha **Acesso à Educação**.
 
 ## O problema
 
@@ -12,15 +12,15 @@ Estudantes com diferentes necessidades (deficiências visuais, auditivas, motora
 
 O **EduAcessível** é uma proposta de tecnologia assistiva educacional que usa inteligência artificial como **ponte entre o conteúdo, o estudante e o professor** dentro da sala de aula presencial:
 
-- **Apoios personalizáveis** — leitura em voz alta, texto ampliado, alto contraste, Libras, pictogramas, redução de estímulos e mais, combináveis sem exigir diagnóstico
-- **IA que acompanha a aula** — explica, exemplifica, retoma conteúdo e responde dúvidas no ritmo do estudante
-- **Professor no comando** — visão da turma com pedidos de ajuda e insights de participação
+- **Apoios personalizáveis**: leitura em voz alta, texto ampliado, alto contraste, Libras, pictogramas, redução de estímulos e mais, combináveis: sem exigir diagnóstico
+- **IA que acompanha a aula**: explica, exemplifica, retoma conteúdo e responde dúvidas no ritmo do estudante
+- **Professor no comando**: visão da turma com pedidos de ajuda e insights de participação
 
 **O que não é:** não é ensino a distância e não substitui o professor.
 
 ## Mascote
 
-O **camaleão** representa adaptação: é a tecnologia que se adapta ao estudante — e não o contrário.
+O **camaleão** representa adaptação: é a tecnologia que se adapta ao estudante e não o contrário.
 
 ## Status
 
@@ -28,7 +28,7 @@ O **camaleão** representa adaptação: é a tecnologia que se adapta ao estudan
 
 ### O que funciona hoje (real, no navegador)
 
-- Barra de acessibilidade: texto A−/A+, alto contraste, leitura em voz alta (SpeechSynthesis) com interrupção — preferências persistidas
+- Barra de acessibilidade: texto A−/A+, alto contraste, leitura em voz alta (SpeechSynthesis) com interrupção preferências persistidas
 - Meus Apoios: seleção de preferências (visual, auditivo, motor, comunicação, leitura simplificada, pictogramas) com efeito real na interface
 - Camaleão-assistente: chat com base local de perguntas frequentes, sugestões prontas e respostas rápidas
 - Painel do professor: pedidos de ajuda com ações (detalhes/responder/abordar), apoios da turma, tópicos com mais dúvidas — **dados fictícios identificados**
