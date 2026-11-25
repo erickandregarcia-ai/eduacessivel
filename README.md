@@ -59,7 +59,7 @@ HTML + CSS + **JavaScript puro** (sem frameworks, sem dependências externas).
 
 - Erick André Garcia — [@erickandregarcia-ai](https://github.com/erickandregarcia-ai)
 - Felipe Silva — [@felipe-silva-dev](https://github.com/felipe-silva-dev)
-- Geovana Calixto Costa
+- Geovana Calixto Costa [@geovanacalixto](https://github.com/GeovanaCalixto).
 - Gabriel A. São José
 
 ## Links
