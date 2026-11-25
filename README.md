@@ -6,7 +6,7 @@ Projeto desenvolvido para o **Hack Brasil 2026** — Trilha **Acesso à Educaç�
 
 ## O problema
 
-Estudantes com diferentes necessidades (deficiências visuais, auditivas, motoras e intelectuais, TEA, TDAH, dislexia, necessidades de comunicação alternativa e outras) enfrentam barreiras para participar plenamente das aulas presenciais. Em pesquisa da Fundação Lemann (2021), 40% dos docentes de escolas públicas declararam nunca ter feito formação sobre inclusão. Ao mesmo tempo, o apoio que funciona varia de pessoa para pessoa — não existe uma única forma de aprender.
+Estudantes com diferentes necessidades (deficiências visuais, auditivas, motoras e intelectuais, TEA, TDAH, dislexia, necessidades de comunicação alternativa e outras) enfrentam barreiras para participar plenamente das aulas presenciais. Em pesquisa da Fundação Lemann (2021), 40% dos docentes de escolas públicas declararam nunca ter feito formação sobre inclusão. Ao mesmo tempo, o apoio que funciona varia de pessoa para pessoa, não existe uma única forma de aprender.
 
 ## A proposta
 
